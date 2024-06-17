@@ -60,6 +60,7 @@ Deseja deletar os arquivos anteriores? (S/N): S
 Arquivos anteriores deletados com sucesso.
 Digite o nome ou o link do vídeo: <Nome ou link do vídeo>
 Vídeo '<Título do Vídeo>' baixado com sucesso!
+```
 
 ## Funcionamento Interno
 
@@ -75,6 +76,7 @@ YouTubeDownloader: Classe que gerencia o download dos vídeos.
     download_by_name(name): Baixa o vídeo pelo nome.
     download_by_ytlink(link): Baixa o vídeo pelo link do YouTube.
     change_path(new_path): Altera o caminho onde os vídeos serão salvos.
+```
 
 ## Contato
 Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato.
