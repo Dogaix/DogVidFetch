@@ -12,7 +12,7 @@ Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos ins
 - Módulo `yt_dlp` (instalável via pip)
 - Módulo `youtube-search` (instalável via pip)
 - `ffmpeg` (uma ferramenta externa para manipulação de áudio e vídeo)
-
+```
 
 ## Instalação
 
