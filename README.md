@@ -11,12 +11,10 @@ Este script permite que você baixe vídeos do YouTube utilizando `yt-dlp` e `ff
 
 Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos instalados:
 
-```plaintext
 - Python 3.6 ou superior
 - Módulo `yt_dlp`
 - Módulo `youtube-search`
 - `ffmpeg`
-```
 
 
 
