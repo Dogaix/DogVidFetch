@@ -9,9 +9,9 @@ Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos ins
 
 ```plaintext
 - Python 3.6 ou superior
-- Módulo `yt_dlp` (instalável via pip)
-- Módulo `youtube-search` (instalável via pip)
-- `ffmpeg` (uma ferramenta externa para manipulação de áudio e vídeo)
+- Módulo `yt_dlp`
+- Módulo `youtube-search`
+- `ffmpeg`
 ```
 
 ## Instalação
@@ -51,7 +51,7 @@ Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos ins
 
 ## Exemplo de Execução
 
-```plaintext
+```py
 $ python dog_video_downloader.py
 
  Bem-vindo ao DogVideoDownloader
