@@ -81,11 +81,9 @@ Vídeo '<Título do Vídeo>' baixado com sucesso!
 
 ## Funcionamento Interno
 
-```plaintext
+```py
 clear_previous_files(): Deleta todos os arquivos na pasta ./video.
-
 get_user_choice(): Solicita ao usuário se deseja deletar os arquivos anteriores.
-
 YouTubeDownloader: Classe que gerencia o download dos vídeos.
 
     get_info_by_ytlink(link): Obtém informações do vídeo pelo link do YouTube.
