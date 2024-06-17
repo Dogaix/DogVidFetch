@@ -36,8 +36,9 @@ Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos ins
     - Para Windows, baixe o executável do `ffmpeg` [aqui](https://www.ffmpeg.org/download.html) e adicione-o ao seu PATH.
     - Para Linux, instale o `ffmpeg` usando o gerenciador de pacotes da sua distribuição. Por exemplo:
 
-    `sudo apt update`
-    `sudo apt install ffmpeg`
+    ```bash
+    sudo apt update
+    sudo apt install ffmpeg
     ```
 
 
