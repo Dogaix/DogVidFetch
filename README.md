@@ -3,6 +3,10 @@
 Bem-vindo ao DogVideoDownloader! 🐾✨
 Este script permite que você baixe vídeos do YouTube utilizando `yt-dlp` e `ffmpeg`.
 
+
+
+
+
 ## Requisitos
 
 Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos instalados:
@@ -13,6 +17,10 @@ Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos ins
 - Módulo `youtube-search`
 - `ffmpeg`
 ```
+
+
+
+
 
 ## Instalação
 
@@ -34,6 +42,10 @@ Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos ins
     sudo apt install ffmpeg
     ```
 
+
+
+
+
 ## Uso
 
 1. Execute o script:
@@ -49,18 +61,24 @@ Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos ins
 
 3. Insira o nome do vídeo ou o link do YouTube quando solicitado.
 
+
+
+
 ## Exemplo de Execução
 
 ```py
 $ python dog_video_downloader.py
 
- Bem-vindo ao DogVideoDownloader
+Bem-vindo ao DogVideoDownloader
 
 Deseja deletar os arquivos anteriores? (S/N): S
 Arquivos anteriores deletados com sucesso.
 Digite o nome ou o link do vídeo: <Nome ou link do vídeo>
 Vídeo '<Título do Vídeo>' baixado com sucesso!
 ```
+
+
+
 
 ## Funcionamento Interno
 
