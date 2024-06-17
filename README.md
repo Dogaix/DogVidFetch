@@ -30,6 +30,7 @@ Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos ins
     pip install yt-dlp youtube-search
     ```
 
+
 3. Baixe e instale o `ffmpeg`:
 
     - Para Windows, baixe o executável do `ffmpeg` [aqui](https://www.ffmpeg.org/download.html) e adicione-o ao seu PATH.
