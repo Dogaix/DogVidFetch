@@ -96,4 +96,4 @@ YouTubeDownloader: Classe que gerencia o download dos vídeos.
 ## Contato
 Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato.
 
-> Feito com por Dogaix <
+> Feito com por Dogaix
