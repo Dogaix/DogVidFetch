@@ -74,7 +74,7 @@ class YouTubeDownloader:
         self.ydl_opts['outtmpl'] = os.path.join(new_path, '%(title)s.%(ext)s')
 
 def main():
-    print("\n\033[1;32m Bem-vindo ao DogVideoDownloader \033[0m\n")
+    print("\n\033[1;32m Bem-vindo ao DogVidFetch \033[0m\n")
     mensagem = get_user_choice()
 
     if mensagem == "s":
