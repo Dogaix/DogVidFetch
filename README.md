@@ -1,6 +1,6 @@
-# DogVideoDownloader
+# DogVidFetch
 
-Bem-vindo ao DogVideoDownloader! 🐾✨
+Bem-vindo ao DogVidFetch! 🐾✨
 Este script permite que você baixe vídeos do YouTube utilizando `yt-dlp` e `ffmpeg`.
 
 
@@ -9,7 +9,7 @@ Este script permite que você baixe vídeos do YouTube utilizando `yt-dlp` e `ff
 
 ## Requisitos
 
-Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos instalados:
+Para usar o DogVidFetch, certifique-se de ter os seguintes requisitos instalados:
 
 - Python 3.6 ou superior
 - Módulo `yt_dlp`
@@ -68,7 +68,7 @@ Para usar o DogVideoDownloader, certifique-se de ter os seguintes requisitos ins
 ```py
 $ python dog_video_downloader.py
 
-Bem-vindo ao DogVideoDownloader
+Bem-vindo ao DogVidFetch
 
 Deseja deletar os arquivos anteriores? (S/N): S
 Arquivos anteriores deletados com sucesso.
