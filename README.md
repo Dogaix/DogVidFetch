@@ -96,4 +96,8 @@ YouTubeDownloader: Classe que gerencia o download dos vídeos.
 ## Contato
 Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato.
 
-> Feito com por Dogaix
+> Feito por Dogaix
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dogaix/DogVidFetch&type=date&legend=top-left)](https://www.star-history.com/#Dogaix/DogVidFetch&type=date&legend=top-left)
